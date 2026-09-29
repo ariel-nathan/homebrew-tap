@@ -1,6 +1,6 @@
 cask "writer" do
-  version "0.3.1"
-  sha256 "a909659ddd3a2f3b19c22db40e86985cecdbb40008555a74d302bc0721f2dab7"
+  version "0.3.2"
+  sha256 "7765f76a55275a1eb8b4df214c5b374bb198688fd911ea7bb8473f902aa5c003"
 
   url "https://github.com/ariel-nathan/writer/releases/download/v#{version}/Writer-#{version}.dmg"
   name "Writer"
